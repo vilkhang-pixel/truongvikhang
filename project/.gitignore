@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Cấu trúc app/index hoàn chỉnh kèm .gitignore"
+git branch -M main
+git remote add origin <LINK_REPO_GITHUB_CỦA_BẠN>
+git push -u origin main
